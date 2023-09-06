@@ -1,2 +1,5 @@
 # CarInfo
-Fullstack Car info project
+Fullstack Car info project:
+
+FastAPI
+Jinja
